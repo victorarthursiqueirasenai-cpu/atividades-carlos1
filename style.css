@@ -1,5 +1,45 @@
+
+body {
+    background-color: pink;
+    color: deeppink;
+    font-family: sans-serif;
+    text-align: center;
+}
+
 img {
     width: 200px;
     height: 200px;
+    border: 5px solid white;
+    border-radius: 10px;
 }
 
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+/* Formulário com espaçamento simples */
+form {
+    margin: 10px;
+}
+
+input {
+    background-color: white;
+    border: 2px solid deeppink;
+    color: deeppink;
+    padding: 5px;
+}
+
+
+button {
+    background-color: deeppink;
+    color: white;
+    border: 2px solid white;
+    padding: 10px 20px;
+    font-weight: bold;
+    cursor: pointer;
+}
